@@ -44,12 +44,12 @@ lastpage: 1193
 page: 1185-1193
 order: 1185
 cycles: false
-bibtex_author: Cherapanamjeri, Yeshwanth and Garg, Sumegba and Rajaraman, Nived and
+bibtex_author: Cherapanamjeri, Yeshwanth and Garg, Sumegha and Rajaraman, Nived and
   Sekhari, Ayush and Shetty, Abhishek
 author:
 - given: Yeshwanth
   family: Cherapanamjeri
-- given: Sumegba
+- given: Sumegha
   family: Garg
 - given: Nived
   family: Rajaraman
