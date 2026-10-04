@@ -21,7 +21,7 @@ publisher: PMLR
 issn: 2640-3498
 id: simchowitz25a
 month: 0
-tex_title: The title of the paper
+tex_title: The Pitfalls of Imitation Learning when Actions are Continuous
 firstpage: 5248
 lastpage: 5351
 page: 5248-5351
