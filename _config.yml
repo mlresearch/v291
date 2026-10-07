@@ -11,7 +11,7 @@ sections:
 volume: '291'
 year: '2025'
 published: 2025-07-02
-start: &1 2025-06-30
+start: 2025-06-30
 end: 2025-07-04
 conference_number: '38'
 layout: proceedings
@@ -76,7 +76,7 @@ conference:
   url: https://learningtheory.org/colt2025/
   location: Lyon, France
   dates:
-  - *1
+  - 2025-06-30
   - 2025-07-01
   - 2025-07-02
   - 2025-07-03
